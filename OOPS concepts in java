@@ -1,0 +1,55 @@
+OOPS CONCEPTS IN JAVA 
+
+Object-Oriented Programming (OOP) is a 
+programming paradigm that is based on 
+the concept of objects. Java is one of
+the most popular languages that follows
+OOP principles. There are four main OOP
+concepts:
+
+1. Encapsulation:
+Encapsulation is the process of wrapping
+the data (variables) and code (methods) 
+together as a single unit. In Java,
+encapsulation is achieved using private 
+access modifiers for the fields and public 
+getter/setter methods to access and update
+the data.
+
+2. Inheritance:
+Inheritance is a mechanism where one class
+(child or subclass) inherits the properties 
+and behaviors (fields and methods) of 
+another class (parent or superclass). 
+It allows code reuse and hierarchical 
+classification.
+
+3. Polymorphism:
+Polymorphism means "many forms." It allows
+one entity (method or object) to take many
+forms. In Java, there are two types of 
+polymorphism:
+
+• Compile-time polymorphism (Method
+Overloading): Multiple methods with the 
+same name but different parameters.
+• Run-time polymorphism (Method Overriding):
+A subclass provides a specific 
+implementation of a method that is already
+defined in its superclass.
+
+4. Abstraction:
+Abstraction is the concept of hiding the 
+implementation details and only exposing
+the essential features. In Java, 
+abstraction is achieved using abstract
+classes and interfaces.
+
+• Abstract Class: A class that cannot be
+instantiated and may contain abstract
+methods (methods without a body) that must
+be implemented by subclasses.
+• Interface: A reference type that only 
+contains abstract methods. It allows a
+class to implement multiple interfaces
+and define specific behaviors.
