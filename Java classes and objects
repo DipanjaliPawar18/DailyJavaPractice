@@ -1,0 +1,18 @@
+In Java, classes and objects are fundamental 
+concepts of object-oriented programming(OOP).
+
+1. Class:
+A class is a blueprint or a template that 
+defines the structure and behavior (data 
+and methods) that objects of that class 
+will have. It can include variables (also 
+called attributes or fields) and methods 
+(functions that define actions).
+
+2. Object:
+An object is an instance of a class. When 
+a class is defined, no memory is allocated
+until an object of that class is created.
+Each object has its own values for the 
+variables defined in the class and can 
+use the methods of that class.
